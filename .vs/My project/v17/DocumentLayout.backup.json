@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\circu\\Projects\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\conveyorbelt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\conveyorbelt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\users\\circu\\projects\\my project\\assets\\scripts\\bg_scripts\\bg_swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bg_scripts\\bg_swap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\bg_scripts\\timelinetransitioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bg_scripts\\timelinetransitioneffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\menu\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\exitbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\menu\\mainmenubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu\\mainmenubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\character_scripts\\character_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\character_scripts\\character_movement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\levelgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelgoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\pipeboxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipeboxspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\bg_scripts\\timelinetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bg_scripts\\timelinetransition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\bg_scripts\\timeportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bg_scripts\\timeportal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\bg_scripts\\timelinemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bg_scripts\\timelinemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\levelendtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\levelendtrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\pipetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pipetime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\Users\\circu\\Projects\\My project\\assets\\scripts\\timelinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\timelinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExitButton.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\Menu\\ExitButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\ExitButton.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\Menu\\ExitButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\ExitButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T00:27:37.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainMenuButtons.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\Menu\\MainMenuButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu\\MainMenuButtons.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\Menu\\MainMenuButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu\\MainMenuButtons.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T00:11:44.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimelineTransitionEffect.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\TimelineTransitionEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BG_Scripts\\TimelineTransitionEffect.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\TimelineTransitionEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BG_Scripts\\TimelineTransitionEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:53:39.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PipeBoxSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\PipeBoxSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeBoxSpawner.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\PipeBoxSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeBoxSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T11:18:53.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimelineTransition.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\TimelineTransition.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BG_Scripts\\TimelineTransition.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\TimelineTransition.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BG_Scripts\\TimelineTransition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T10:40:04.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TimePortal.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\TimePortal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BG_Scripts\\TimePortal.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\TimePortal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BG_Scripts\\TimePortal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:58:13.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConveyorBelt.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\ConveyorBelt.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConveyorBelt.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\ConveyorBelt.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConveyorBelt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:22:44.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bg_swap.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\bg_swap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BG_Scripts\\bg_swap.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\bg_swap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BG_Scripts\\bg_swap.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwCMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:53:44.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LevelEndTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\LevelEndTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelEndTrigger.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\LevelEndTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelEndTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:01:11.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LevelGoal.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\LevelGoal.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LevelGoal.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\LevelGoal.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LevelGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:02:31.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character_movement.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\Character_scripts\\Character_movement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Character_scripts\\Character_movement.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\Character_scripts\\Character_movement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Character_scripts\\Character_movement.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T23:08:54.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PipeTime.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\PipeTime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PipeTime.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\PipeTime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PipeTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:22:55.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TimelineManager.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\TimelineManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BG_Scripts\\TimelineManager.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\BG_Scripts\\TimelineManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BG_Scripts\\TimelineManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T12:07:22.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TimeLineWall.cs",
+              "DocumentMoniker": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\TimeLineWall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimeLineWall.cs",
+              "ToolTip": "C:\\Users\\circu\\Projects\\My project\\Assets\\Scripts\\TimeLineWall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimeLineWall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T03:16:17.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
