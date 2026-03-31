@@ -200,6 +200,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::ConveyorBelt
   pushSpeed: -6.5
+  conveyorAnimator: {fileID: 1684062662630545042}
 --- !u!95 &1684062662630545042
 Animator:
   serializedVersion: 7

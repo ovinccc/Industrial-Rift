@@ -3,13 +3,13 @@ using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using System.Collections;
 
-public class MainMenuButtons : MonoBehaviour
+public class MainMenu : MonoBehaviour
 {
     public Image fadeImage;
     public float fadeDuration = 1f;
     public string introSceneName = "IntroVideoScene";
 
-    public void OnMouseDown()
+    public void StartGame()
     {
         StartCoroutine(FadeAndLoadIntro());
     }
