@@ -1,15 +1,27 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Video;
 
-public class LevelGoal : MonoBehaviour
+public class EnvelopePickup : MonoBehaviour
 {
-    public string nextSceneName = "Level2";
+    public string transitionSceneName = "LevelTransitionScene1";
+    public string nextLevelSceneName = "Level2";
+    public VideoClip firstClip;
+
+    private bool pickedUp = false;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        if (pickedUp) return;
+
         if (collision.CompareTag("Player"))
         {
-            SceneManager.LoadScene(nextSceneName);
+            pickedUp = true;
+
+            LevelTransitionData.nextSceneName = nextLevelSceneName;
+            LevelTransitionData.firstClip = firstClip;
+
+            SceneManager.LoadScene(transitionSceneName);
         }
     }
 }
