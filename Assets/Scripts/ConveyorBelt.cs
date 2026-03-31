@@ -3,8 +3,21 @@ using UnityEngine;
 public class ConveyorBelt : MonoBehaviour
 {
     public float pushSpeed = -5f;
+    public Animator conveyorAnimator;
 
-    private void OnTriggerStay2D(Collider2D collision)
+    private void Update()
+    {
+        bool conveyorActive = TimelineManager.Instance != null &&
+                              TimelineManager.Instance.currentTimeline == Timeline.Past;
+
+        if (conveyorAnimator != null)
+        {
+            conveyorAnimator.SetBool("IsPast",  conveyorActive);
+        }
+
+}
+
+private void OnTriggerStay2D(Collider2D collision)
     {
         bool conveyorActive = TimelineManager.Instance != null &&
                               TimelineManager.Instance.currentTimeline == Timeline.Past;
@@ -18,12 +31,12 @@ public class ConveyorBelt : MonoBehaviour
                 if (conveyorActive)
                 {
                     player.SetConveyorPush(pushSpeed);
-                    player.SetJumpEnabled(false);
+                    //player.SetJumpEnabled(false);
                 }
                 else
                 {
                     player.SetConveyorPush(0f);
-                    player.SetJumpEnabled(true);
+                    //player.SetJumpEnabled(true);
                 }
             }
         }
@@ -55,7 +68,7 @@ public class ConveyorBelt : MonoBehaviour
             if (player != null)
             {
                 player.SetConveyorPush(0f);
-                player.SetJumpEnabled(true);
+                //player.SetJumpEnabled(true);
             }
         }
 

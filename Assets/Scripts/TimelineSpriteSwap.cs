@@ -12,7 +12,7 @@ public class TimelineSpriteSwap : MonoBehaviour
     {
         sr = GetComponent<SpriteRenderer>();
     }
-
+   
     private void OnEnable()
     {
         TimelineManager.OnTimelineChanged += HandleTimelineChanged;

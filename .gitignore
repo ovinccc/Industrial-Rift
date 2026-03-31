@@ -12,6 +12,7 @@ MemoryCaptures/
 
 # IDE files
 .vscode/
+.vs/
 .idea/
 *.csproj
 *.unityproj

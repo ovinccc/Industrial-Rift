@@ -8,12 +8,6 @@ TextureImporter:
   - first:
       213: 1763989116612304091
     second: button_1
-  - first:
-      213: -5033884579438549468
-    second: button_2
-  - first:
-      213: 1120241560109220500
-    second: button_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -126,9 +120,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 470
+        y: 0
         width: 412
-        height: 281
+        height: 84
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,10 +141,10 @@ TextureImporter:
       name: button_1
       rect:
         serializedVersion: 2
-        x: 504
-        y: 473
+        x: 479
+        y: 0
         width: 413
-        height: 280
+        height: 116
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,50 +155,6 @@ TextureImporter:
       bones: []
       spriteID: bdcd45b61c2fa7810800000000000000
       internalID: 1763989116612304091
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: button_2
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 0
-        width: 413
-        height: 411
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 426af3a45ac042ab0800000000000000
-      internalID: -5033884579438549468
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: button_3
-      rect:
-        serializedVersion: 2
-        x: 514
-        y: 2
-        width: 412
-        height: 408
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 49280fc73c5eb8f00800000000000000
-      internalID: 1120241560109220500
       vertices: []
       indices: 
       edges: []
@@ -225,8 +175,6 @@ TextureImporter:
     nameFileIdTable:
       button_0: 2530564911472380330
       button_1: 1763989116612304091
-      button_2: -5033884579438549468
-      button_3: 1120241560109220500
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
