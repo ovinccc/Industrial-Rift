@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2479664937563620062}
   - component: {fileID: 492195596236433655}
   - component: {fileID: 1691221159601201900}
+  - component: {fileID: 2650541703194230800}
   m_Layer: 0
   m_Name: lever
   m_TagString: Untagged
@@ -83,7 +84,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 1
   m_MaskInteraction: 0
-  m_Sprite: {fileID: -3975624549204834352, guid: c41261fde8ec90d4aa636a23135715a3, type: 3}
+  m_Sprite: {fileID: -2839344198389245995, guid: ea494558acec35249a89a0c39409507f, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -131,13 +132,13 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 7.85, y: 7.94}
+    oldSize: {x: 0.45, y: 0.75}
     newSize: {x: 7.85, y: 7.94}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 7.85, y: 7.94}
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!114 &1691221159601201900
 MonoBehaviour:
@@ -155,3 +156,27 @@ MonoBehaviour:
   spawnPoint: {fileID: 0}
   spawnKey: 101
   allowedTimeline: 0
+  leverAnimator: {fileID: 2650541703194230800}
+  pullTriggerName: Pull
+--- !u!95 &2650541703194230800
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1860904023009552982}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: cf46417f4a4f81743bd7056c4a974e28, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

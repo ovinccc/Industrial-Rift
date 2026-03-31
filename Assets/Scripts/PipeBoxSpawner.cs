@@ -10,14 +10,33 @@ public class PipeBoxSpawner : MonoBehaviour
     [Header("Timeline Gate")]
     public Timeline allowedTimeline = Timeline.Past;
 
+    [Header("Lever Animation")]
+    public Animator leverAnimator;
+    public string pullTriggerName = "Pull";
+    public string idleStateName = "idle";
 
     private bool playerNearby = false;
     private GameObject currentBox;
+
+    void Start()
+    {
+        if (leverAnimator != null)
+        {
+            leverAnimator.ResetTrigger(pullTriggerName);
+            leverAnimator.Play(idleStateName, 0, 0f);
+        }
+    }
     void Update()
     {
 
         if (Input.GetKeyDown(spawnKey) && TimelineManager.Instance.currentTimeline == allowedTimeline && playerNearby)
         {
+            if (leverAnimator != null)
+            {
+                leverAnimator.ResetTrigger(pullTriggerName);
+                leverAnimator.SetTrigger(pullTriggerName);
+            }
+
             RespawnBox();
         }
     }
