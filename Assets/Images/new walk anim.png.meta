@@ -1,13 +1,25 @@
 fileFormatVersion: 2
-guid: 526a4fc70f685ab45ad499eeffa2487a
+guid: 05c7d7a4e2a374d42b82d69b1fb8e0f6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2530564911472380330
-    second: button_0
+      213: -293930961136174970
+    second: new walk anim_0
   - first:
-      213: 1763989116612304091
-    second: button_1
+      213: 5826932629057413029
+    second: new walk anim_1
+  - first:
+      213: 1679957117481517266
+    second: new walk anim_2
+  - first:
+      213: 4331483894344023496
+    second: new walk anim_3
+  - first:
+      213: 4624203270423420957
+    second: new walk anim_4
+  - first:
+      213: 1648858681993448367
+    second: new walk anim_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,7 +52,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -116,13 +128,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: button_0
+      name: new walk anim_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 412
-        height: 84
+        x: 32
+        y: 73
+        width: 181
+        height: 297
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +143,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa90165216f5e1320800000000000000
-      internalID: 2530564911472380330
+      spriteID: 6883df0295fbbebf0800000000000000
+      internalID: -293930961136174970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: button_1
+      name: new walk anim_1
       rect:
         serializedVersion: 2
-        x: 479
-        y: 0
-        width: 413
-        height: 116
+        x: 222
+        y: 56
+        width: 160
+        height: 322
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +165,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdcd45b61c2fa7810800000000000000
-      internalID: 1763989116612304091
+      spriteID: 5af991d8a5c6dd050800000000000000
+      internalID: 5826932629057413029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new walk anim_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 56
+        width: 153
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d00069f818605710800000000000000
+      internalID: 1679957117481517266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new walk anim_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 58
+        width: 161
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd73b817a58c1c30800000000000000
+      internalID: 4331483894344023496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new walk anim_4
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 55
+        width: 162
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a9c6df587c2040800000000000000
+      internalID: 4624203270423420957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new walk anim_5
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 73
+        width: 184
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabc9093c3ce1e610800000000000000
+      internalID: 1648858681993448367
       vertices: []
       indices: 
       edges: []
@@ -173,8 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      button_0: 2530564911472380330
-      button_1: 1763989116612304091
+      new walk anim_0: -293930961136174970
+      new walk anim_1: 5826932629057413029
+      new walk anim_2: 1679957117481517266
+      new walk anim_3: 4331483894344023496
+      new walk anim_4: 4624203270423420957
+      new walk anim_5: 1648858681993448367
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

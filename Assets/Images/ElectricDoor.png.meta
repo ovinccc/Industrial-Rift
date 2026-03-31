@@ -1,13 +1,13 @@
 fileFormatVersion: 2
-guid: 526a4fc70f685ab45ad499eeffa2487a
+guid: 182357bf86ceb1f4a9efcae3af3c990a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2530564911472380330
-    second: button_0
+      213: -5256361860275820070
+    second: ElectricDoor_0
   - first:
-      213: 1763989116612304091
-    second: button_1
+      213: -1916031170064467676
+    second: ElectricDoor_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -116,13 +116,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: button_0
+      name: ElectricDoor_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 412
-        height: 84
+        width: 97
+        height: 413
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: aa90165216f5e1320800000000000000
-      internalID: 2530564911472380330
+      spriteID: ad9295bccb6ad07b0800000000000000
+      internalID: -5256361860275820070
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: button_1
+      name: ElectricDoor_1
       rect:
         serializedVersion: 2
-        x: 479
-        y: 0
-        width: 413
-        height: 116
+        x: 175
+        y: 382
+        width: 97
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,8 +153,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bdcd45b61c2fa7810800000000000000
-      internalID: 1763989116612304091
+      spriteID: 4293bb96dc3e865e0800000000000000
+      internalID: -1916031170064467676
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      button_0: 2530564911472380330
-      button_1: 1763989116612304091
+      ElectricDoor_0: -5256361860275820070
+      ElectricDoor_1: -1916031170064467676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
